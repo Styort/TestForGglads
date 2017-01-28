@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TestForGglads</string>
+
+    <string-array name="categ">
+        <item>tech</item>
+        <item>book</item>
+        <item>mobile</item>
+    </string-array>
+    <string name="button_show_web">Get it!</string>
+    <string name="description_post_info">Description:</string>
+</resources>
